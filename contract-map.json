@@ -62,6 +62,13 @@
     "symbol": "C8",
     "decimals": 18
   },
+  "0x55f16708a0c7BcB40F2138f836e87733D0636C8e": {
+    "name": "LOH Token - Project LJM Clockwork",
+    "logo": "loh-token-logo.png",
+    "erc20": true,
+    "symbol": "LOH",
+    "decimals": 18
+  },
   "0x57B946008913B82E4dF85f501cbAeD910e58D26C": {
     "name": "Marlin",
     "logo": "POND.svg",
